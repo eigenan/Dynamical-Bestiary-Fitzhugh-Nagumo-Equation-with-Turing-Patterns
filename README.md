@@ -1,0 +1,1 @@
+# Dynamical-Bestiary-Fitzhugh-Nagumo-Equation-with-Turing-Patterns
