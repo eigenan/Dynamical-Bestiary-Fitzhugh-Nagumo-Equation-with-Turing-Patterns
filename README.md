@@ -13,7 +13,7 @@ $$
 
 **Boundary Conditions:** Periodic/Neumann on the spatial domain.
 
-By adjusting the parameters and initial conditions, the model generates the following striking patterns.
+By tuning the parameters and initial conditions, the model generates the following striking patterns.
 
 <img width="971" height="425" alt="fn_turing" src="https://github.com/user-attachments/assets/8ddcd294-b83d-4ba4-8fe2-069416948994" />
 
